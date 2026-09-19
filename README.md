@@ -308,16 +308,10 @@ git push origin feature-name
 
 ---
 
-# 👨‍💻 Maintainer & Authors
+# 👨‍💻 Author
 
 ### MD Taslim (taslimzafar)
 🔗 GitHub: [https://github.com/taslimzafar](https://github.com/taslimzafar)
-
-### Original Author: Mohammad Fazal
-**B.Tech Computer Science Engineering**  
-ABES Engineering College  
-🔗 GitHub: https://github.com/MFazal231  
-🔗 LinkedIn: https://www.linkedin.com/in/mohammad-fazal/  
 
 ---
 
