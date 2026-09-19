@@ -12,7 +12,7 @@
   <a href="https://crop-disease-detection-woad.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Project-success?style=for-the-badge" alt="Live Demo">
   </a>
-  <a href="https://github.com/taslimzafar/AgriFarm-Crop-Disease-Detection">
+  <a href="https://github.com/taslimzafar/AgriFarm-CropDiseas-Detection">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repository">
   </a>
 </p>
@@ -118,7 +118,7 @@ This project demonstrates how machine learning can be integrated into modern web
 # 📂 Project Structure
 
 ```text
-AgriFarm-Crop-Disease-Detection/
+AgriFarm-CropDiseas-Detection/
 │
 ├── backend/                 Flask backend API
 ├── ml/                      Machine learning training notebook
@@ -158,13 +158,13 @@ AgriFarm-Crop-Disease-Detection/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/taslimzafar/AgriFarm-Crop-Disease-Detection.git
+git clone https://github.com/taslimzafar/AgriFarm-CropDiseas-Detection.git
 ```
 
 Move into the project directory
 
 ```bash
-cd AgriFarm-Crop-Disease-Detection
+cd AgriFarm-CropDiseas-Detection
 ```
 
 Install dependencies
