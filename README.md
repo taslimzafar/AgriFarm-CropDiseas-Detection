@@ -327,4 +327,6 @@ This project is licensed under the **MIT License**.
 
 It helps others discover the project and motivates further development.
 
+Made with ❤️ by **MD Taslim**
+
 </div>

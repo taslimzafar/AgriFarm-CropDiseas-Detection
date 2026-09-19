@@ -1,7 +1,8 @@
 {
   "name": "crop-disease-detector",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "MD Taslim (https://github.com/taslimzafar)",
   "type": "module",
   "scripts": {
     "dev": "vite",
